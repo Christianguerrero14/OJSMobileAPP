@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OJS Mobile APP</string>
+    <string name="revistas_uteq_edu_ec">revistas.uteq.edu.ec</string>
+    <string name="btnContinuar">INGRESAR</string>
+    <string name="bienvenido_a_nuestro_portal_m_vil_de_revistas_cient_ficas">Bienvenido a nuestro portal móvil de revistas científicas</string>
+    <string name="seleccione_un_idioma_a_mostrar">Seleccione un idioma a mostrar</string>
+    <string name="todo">TODO</string>
+    <string name="lenguaje_language_l_ngua">IDIOMA</string>
+    <string name="view_pdf">VIEW PDF</string>
+    <string name="titulo">TITULO</string>
+    <string name="doi">DOI</string>
+    <string name="fecha">FECHA</string>
+    <string name="art_culos_de_las_revistas_uteq">ARTÍCULOS DE LAS REVISTAS UTEQ</string>
+    <string name="ediciones_de_las_revistas_uteq">EDICIONES DE LAS REVISTAS UTEQ</string>
+    <string name="revistas_de_la_uteq">REVISTAS DE LA UTEQ</string>
+    <string name="next">SIGUIENTE</string>
+    <string name="scientific_magazines">REVISTAS CIENTÍFICAS</string>
+    <string name="bienvenido_welcome_bem_vindo">BIENVENIDO</string>
+    <string name="url_pdf">URL PDF</string>
+    <string name="revista">REVISTA</string>
+</resources>

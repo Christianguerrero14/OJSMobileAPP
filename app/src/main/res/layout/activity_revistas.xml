@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_marginTop="20dp"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#282828"
+    android:layout_height="match_parent"
+    tools:context=".RevistasActivity">
+    <TextView
+        android:id="@+id/texttitulo"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:layout_margin="10dp"
+        style="@style/TextAppearance.AppCompat.Title"
+        android:text="@string/revistas_de_la_uteq"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        >
+
+    </TextView>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/revistasrecycler"
+        android:layout_below="@id/texttitulo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+</RelativeLayout>
